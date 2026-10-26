@@ -1,0 +1,10 @@
+slprj/
+*.slxc
+*.asv
+*.slx.bak
+*_ert_rtw/
+*_grt_rtw/
+results/*
+!results/.gitkeep
+.DS_Store
+Thumbs.db
